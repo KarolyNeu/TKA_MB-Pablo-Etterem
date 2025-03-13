@@ -32,5 +32,9 @@
             <ComboBoxItem Content="Rendelés" FontSize="18"/>
             <ComboBoxItem Content="Számla Készítése" FontSize="18"/>
         </ComboBox>
+        <StackPanel Grid.Row="3" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10">
+            <Button x:Name="bt_Etlap" Content="Étlap" Padding="20" FontSize="20" Background="#D4AC0D" Foreground="White" BorderThickness="1" BorderBrush="White" Cursor="Hand" Margin="10" Width="Auto" Click="bt_Etlap_Click"/>
+            <Button x:Name="bt_Borlap" Content="Borlap" Padding="20" FontSize="20" Background="#A93226" Foreground="White" BorderThickness="1" BorderBrush="White" Cursor="Hand" Margin="10" Width="Auto" Click="bt_Borlap_Click"/>
+        </StackPanel>
     </Grid>
 </Window>

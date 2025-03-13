@@ -20,5 +20,15 @@ namespace WPF
         {
             InitializeComponent();
         }
+
+        private void bt_Etlap_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void bt_Borlap_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
