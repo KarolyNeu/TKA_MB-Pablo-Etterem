@@ -5,8 +5,6 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF", "WPF\WPF.csproj", "{4CBF6344-C083-4CC8-95E0-01CEE5A28BE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etlap", "Etlap\Etlap.csproj", "{DA48083D-FBF2-4A6D-A60C-746A61388DCC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{4CBF6344-C083-4CC8-95E0-01CEE5A28BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CBF6344-C083-4CC8-95E0-01CEE5A28BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CBF6344-C083-4CC8-95E0-01CEE5A28BE9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DA48083D-FBF2-4A6D-A60C-746A61388DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA48083D-FBF2-4A6D-A60C-746A61388DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA48083D-FBF2-4A6D-A60C-746A61388DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA48083D-FBF2-4A6D-A60C-746A61388DCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

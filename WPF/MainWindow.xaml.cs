@@ -23,7 +23,7 @@ namespace WPF
 
         private void bt_Etlap_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("PECORINO TOSCANO GRIGLIATO CON NOCI CARAMELLIZZATE E PERA\r\nSU INSALATINA DI FARRO E VERDURE (1,8,9)\r\n\r\nGrillezett toszkán juhsajt karamellizált dióval, körtével és tönkölybúzás zöldségsalátával\r\n5.450,-Ft");
+           
         }
 
         private void bt_Borlap_Click(object sender, RoutedEventArgs e)
