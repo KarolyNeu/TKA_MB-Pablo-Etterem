@@ -7,6 +7,34 @@
         mc:Ignorable="d"
         Title="Borlap" Height="450" Width="800">
     <Grid>
-        
+        <Grid.Background>
+            <ImageBrush  ImageSource="/borlap.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel Margin="70,30,60,30">
+
+                <TextBlock Text="Vörösborok" FontSize="24" FontWeight="Bold" Margin="0,10,0,5" Foreground="#C0392B"/>
+                <ListBox Margin="0,0,0,20" Background="Transparent" Foreground="Chocolate">
+                    <ListBoxItem Content="Cabernet Sauvignon (3 500 Ft)"/>
+                    <ListBoxItem Content="Merlot (3 200 Ft)"/>
+                    <ListBoxItem Content="Pinot Noir (3 800 Ft)"/>
+                </ListBox>
+
+                <TextBlock Text="Fehérborok" FontSize="24" FontWeight="Bold" Margin="0,10,0,5" Foreground="#C0392B"/>
+                <ListBox Margin="0,0,0,20" Background="Transparent" Foreground="Chocolate">
+                    <ListBoxItem Content="Chardonnay (3 000 Ft)"/>
+                    <ListBoxItem Content="Sauvignon Blanc (2 800 Ft)"/>
+                    <ListBoxItem Content="Riesling (3 200 Ft)"/>
+                </ListBox>
+
+                <TextBlock Text="Rozéborok" FontSize="24" FontWeight="Bold" Margin="0,10,0,5" Foreground="#C0392B"/>
+                <ListBox Margin="0,0,0,20" Background="Transparent" Foreground="Chocolate">
+                    <ListBoxItem Content="Grenache Rosé (2 500 Ft)"/>
+                    <ListBoxItem Content="Syrah Rosé (2 800 Ft)"/>
+                    <ListBoxItem Content="Cinsault Rosé (2 400 Ft)"/>
+                </ListBox>
+            </StackPanel>
+        </ScrollViewer>
     </Grid>
 </Window>
