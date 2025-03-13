@@ -20,8 +20,21 @@
                     <ListBoxItem Content="Caprese saláta (1 800 Ft)"/>
                     <ListBoxItem Content="Prosciutto és melón (2 000 Ft)"/>
                 </ListBox>
+                
+                <TextBlock Text="Főételek" Foreground="#C0392B"  FontSize="24" FontWeight="Bold" Margin="0,10,0,5"/>
+                <ListBox Margin="0,0,0,20" Background="Transparent" Foreground="#FFFFC5">
+                    <ListBoxItem Content="Lasagna (3 500 Ft)"/>
+                    <ListBoxItem Content="Margherita pizza (2 200 Ft)"/>
+                    <ListBoxItem Content="Tagliatelle Bolognese (3 200 Ft)"/>
+                </ListBox>
 
-               
+                <TextBlock Text="Desszertek" Foreground="#C0392B" FontSize="24" FontWeight="Bold" Margin="0,10,0,5"/>
+                <ListBox Margin="0,0,0,20" Background="Transparent" Foreground="#FFFFC5">
+                    <ListBoxItem Content="Tiramisu (1 800 Ft)"/>
+                    <ListBoxItem Content="Panna cotta (1 500 Ft)"/>
+                    <ListBoxItem Content="Cantucci (1 200 Ft)"/>
+                </ListBox>
+
             </StackPanel>
         </ScrollViewer>
     </Grid>
