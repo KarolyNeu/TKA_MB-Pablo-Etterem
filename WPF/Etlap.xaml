@@ -7,6 +7,22 @@
         mc:Ignorable="d"
         Title="Etlap" Height="450" Width="800">
     <Grid>
-        
+        <Grid.Background>
+            <ImageBrush  ImageSource="/vegetables-set-left-black-slate.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel Margin="20">
+
+                <TextBlock Text="Előételek" Foreground="#C0392B" FontSize="24" FontWeight="Bold" Margin="0,10,0,5"/>
+                <ListBox Margin="0,0,0,20" Background="Transparent" Foreground="#FFFFC5">
+                    <ListBoxItem Content="Bruschetta (1 500 Ft)"/>
+                    <ListBoxItem Content="Caprese saláta (1 800 Ft)"/>
+                    <ListBoxItem Content="Prosciutto és melón (2 000 Ft)"/>
+                </ListBox>
+
+               
+            </StackPanel>
+        </ScrollViewer>
     </Grid>
 </Window>
