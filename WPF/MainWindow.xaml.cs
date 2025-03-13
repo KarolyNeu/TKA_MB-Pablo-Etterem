@@ -23,12 +23,14 @@ namespace WPF
 
         private void bt_Etlap_Click(object sender, RoutedEventArgs e)
         {
-           
+            Etlap etlapWindow = new Etlap();
+            etlapWindow.Show();
         }
 
         private void bt_Borlap_Click(object sender, RoutedEventArgs e)
         {
-
+            Borlap etlapWindow = new Borlap();
+            etlapWindow.Show();
         }
     }
 }
