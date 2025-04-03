@@ -1,0 +1,41 @@
+﻿<Window x:Class="PabloEtteremKeszz.Etlap"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PabloEtteremKeszz"
+        mc:Ignorable="d"
+           Title="Etlap" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush  ImageSource="https://img.freepik.com/free-photo/vegetables-set-left-black-slate_1220-686.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel Margin="20">
+
+                <TextBlock Text="Előételek" Foreground="#C0392B" FontSize="24" FontWeight="Bold" Margin="0,10,0,5"/>
+                <ListBox Margin="0,0,0,20" Background="Transparent" Foreground="#FFFFC5">
+                    <ListBoxItem Content="Bruschetta (1 500 Ft)"/>
+                    <ListBoxItem Content="Caprese saláta (1 800 Ft)"/>
+                    <ListBoxItem Content="Prosciutto és melón (2 000 Ft)"/>
+                </ListBox>
+
+                <TextBlock Text="Főételek" Foreground="#C0392B"  FontSize="24" FontWeight="Bold" Margin="0,10,0,5"/>
+                <ListBox Margin="0,0,0,20" Background="Transparent" Foreground="#FFFFC5">
+                    <ListBoxItem Content="Lasagna (3 500 Ft)"/>
+                    <ListBoxItem Content="Margherita pizza (2 200 Ft)"/>
+                    <ListBoxItem Content="Tagliatelle Bolognese (3 200 Ft)"/>
+                </ListBox>
+
+                <TextBlock Text="Desszertek" Foreground="#C0392B" FontSize="24" FontWeight="Bold" Margin="0,10,0,5"/>
+                <ListBox Margin="0,0,0,20" Background="Transparent" Foreground="#FFFFC5">
+                    <ListBoxItem Content="Tiramisu (1 800 Ft)"/>
+                    <ListBoxItem Content="Panna cotta (1 500 Ft)"/>
+                    <ListBoxItem Content="Cantucci (1 200 Ft)"/>
+                </ListBox>
+
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

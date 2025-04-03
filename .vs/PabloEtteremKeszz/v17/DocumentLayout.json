@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karesz\\Desktop\\TDD-Teszt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7B4081-E650-41AA-AF7C-75E27FD10C4A}|PabloEtterem_Library\\PabloEtterem_Library.csproj|c:\\users\\karesz\\desktop\\tdd-teszt\\pabloetterem_library\\ettereminterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7B4081-E650-41AA-AF7C-75E27FD10C4A}|PabloEtterem_Library\\PabloEtterem_Library.csproj|solutionrelative:pabloetterem_library\\ettereminterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF5F6B1-9B42-4C4D-83D4-31EC1E0362F2}|Pablo_Tests\\Pablo_Tests.csproj|c:\\users\\karesz\\desktop\\tdd-teszt\\pablo_tests\\pabloetterem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF5F6B1-9B42-4C4D-83D4-31EC1E0362F2}|Pablo_Tests\\Pablo_Tests.csproj|solutionrelative:pablo_tests\\pabloetterem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A10E4A-E027-43CC-8EE0-7F77E408E6C3}|PabloEtteremKeszz\\PabloEtteremKeszz.csproj|c:\\users\\karesz\\desktop\\tdd-teszt\\pabloetteremkeszz\\etlap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88A10E4A-E027-43CC-8EE0-7F77E408E6C3}|PabloEtteremKeszz\\PabloEtteremKeszz.csproj|solutionrelative:pabloetteremkeszz\\etlap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EtteremInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\TDD-Teszt\\PabloEtterem_Library\\EtteremInterface.cs",
+              "RelativeDocumentMoniker": "PabloEtterem_Library\\EtteremInterface.cs",
+              "ToolTip": "C:\\Users\\Karesz\\Desktop\\TDD-Teszt\\PabloEtterem_Library\\EtteremInterface.cs",
+              "RelativeToolTip": "PabloEtterem_Library\\EtteremInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:00:26.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PabloEtterem.cs",
+              "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\TDD-Teszt\\Pablo_Tests\\PabloEtterem.cs",
+              "RelativeDocumentMoniker": "Pablo_Tests\\PabloEtterem.cs",
+              "ToolTip": "C:\\Users\\Karesz\\Desktop\\TDD-Teszt\\Pablo_Tests\\PabloEtterem.cs",
+              "RelativeToolTip": "Pablo_Tests\\PabloEtterem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:54:25.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Etlap.xaml",
+              "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\TDD-Teszt\\PabloEtteremKeszz\\Etlap.xaml",
+              "RelativeDocumentMoniker": "PabloEtteremKeszz\\Etlap.xaml",
+              "ToolTip": "C:\\Users\\Karesz\\Desktop\\TDD-Teszt\\PabloEtteremKeszz\\Etlap.xaml",
+              "RelativeToolTip": "PabloEtteremKeszz\\Etlap.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-03T10:53:08.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
